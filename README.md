@@ -1,4 +1,4 @@
-# read-the-pdf
+# Document Intelligence with LangChain and OpenAI
 
 Based on the provided code cells, it appears that the project involves using the langchain library along with OpenAI's language models and embeddings to perform document analysis and similarity search. Here's a breakdown of the main components and actions in the code:
 
